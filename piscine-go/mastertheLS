@@ -1,0 +1,7 @@
+# #! /bin/bash
+# ls -a /home/student/Desktop/piscine-go
+# ls  /home/student/Desktop/piscine-go
+# ls -1p | grep -v / | xargs echo | sed 's/ /,/g'
+# ls -tr
+# find . | grep a/.*
+ls -A -p -m -t | tr -d " "
