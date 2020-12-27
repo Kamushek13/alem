@@ -1,1 +1,1 @@
-# tasks in first two weeks at alem school
+# tasks in first two weeks at alem school pool
